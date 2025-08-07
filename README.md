@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## curretn state
+## 🔥 curretn state
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shamiul40&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamiul40&layout=compact&theme=github_dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shamiul40&theme=github-dark)
