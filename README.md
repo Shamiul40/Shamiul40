@@ -41,5 +41,55 @@
 
 
 
+<h2>🧠 Current Overview</h2>
+
+<table>
+  <tr>
+    <td width="60%">
+      <p>Hi, I'm <strong>Shamiul Islam</strong>, a passionate Frontend Web Developer with a focus on creating clean, responsive, and user-friendly web interfaces.</p>
+
+      <p>I completed a 6-month intensive <strong>Frontend Web Development course</strong> from <strong>Programming Hero</strong>, where I gained hands-on experience building real-world projects using:</p>
+      <ul>
+        <li>HTML, CSS, JavaScript</li>
+        <li>Tailwind CSS, Bootstrap</li>
+        <li>React.js</li>
+        <li>Basic WordPress customization</li>
+      </ul>
+
+      <p>💡 I love solving problems, continuously learning new technologies, and collaborating with others to build meaningful web experiences.</p>
+
+      <p>🚀 Currently, I'm actively looking for <strong>internship or junior frontend developer roles</strong> where I can contribute, grow, and learn from an experienced team.</p>
+
+      <p>🤝 Let’s connect and build something amazing!</p>
+    </td>
+    
+    <td align="center" width="40%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Shamiul40&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h2>📬 Reach Me Out</h2>
+
+<p align="center">
+  <a href="https://facebook.com/shamiul.ahmed.123" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://linkedin.com/in/shamiul-ahmed" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/88017XXXXXXXXX" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+<p align="center"><strong>💬 Feel free to connect with me anytime! Let’s build something awesome together. 🙌</strong></p>
+
+
 
 </div>
