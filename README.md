@@ -3,13 +3,13 @@
 <div align="center">
 
 # 👋 Hi, I'm **Shamiul Islam**
-### 💻 MERN Stack Web Developer | Passionate Coder | Tech Enthusiast
+### 💻 Frontend Web Developer | Passionate Coder | Tech Enthusiast
 
 ---
 
 ## 🧑‍💼 About Me
 
-🚀 I am a MERN Stack developer passionate about building full-stack web applications.  
+🚀 I am a Frontend developer passionate about building web applications.  
 💡 I love solving problems and learning new technologies to enhance my skills.  
 🧠 I focus on writing clean, optimized, and scalable code.  
 🎯 My goal is to become a world-class software engineer.
@@ -18,7 +18,7 @@
 
 ## 🌱 Current Activities
 
-- 🔭 I’m currently working on a tourism website.
+- 🔭 I’m currently working on a parcel delivery website.
 - 📚 I am learning Next.js and improving backend skills.
 - 👨‍💻 I am contributing to open-source projects.
 
